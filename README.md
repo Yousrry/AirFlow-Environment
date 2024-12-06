@@ -246,3 +246,6 @@ Replace `N` with the desired number of workers.
 ## Screenshots From the executed DAG !
 ![alt text](Images/image-1.png)
 ![alt text](Images/image-2.png)
+
+## Full Environment 
+![alt text](Images/env.png)
